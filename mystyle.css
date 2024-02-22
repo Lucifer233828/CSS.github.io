@@ -1,0 +1,39 @@
+.header{
+    font-family: khmer os battambang;
+}
+.price{
+    font-family: khmer os battambang;
+    width: 500px;
+    border-collapse: collapse;
+}
+th{
+    background-color: black;
+    color: white;
+}
+.br{
+    text-align: left;
+}
+.num{
+    text-align: center;
+}
+.ber{
+    text-align: right;
+}
+tr{
+    margin: 10px;
+}
+.color{
+    background-color: black;
+    color: white;
+}
+.ba{
+    padding: 15px;
+    position: absolute;
+    left:175px;
+}
+img{
+    position: relative;
+    bottom: -30px;
+    width: 800px;
+    height: 100px;
+}
